@@ -1,7 +1,5 @@
 # :octocat: GitHub Profile
 
-Hello! My real name is Timur. My nickname is Kaidoz.
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/326105352523481088) 
 
