@@ -3,7 +3,9 @@
 Hello! My real name is Timur. My nickname is Kaidoz.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ka1doz) [![Telegram](https://iconduck.com/api/v2/vectors/vctra2j4l9do/media/png/256/download](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white))](https://t.me/Kaidoz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ka1doz) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/Kaidoz) 
 
 
 # 💻 Tech Stack:
